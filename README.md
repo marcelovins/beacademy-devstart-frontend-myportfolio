@@ -1,2 +1,14 @@
-Repositório criado como parte do processo de aprendizado do programa DevStart Paylivre pela Be.academy
-Nele é encontrada uma landing page criada com base no portifólio cedido por Luan Monteiro. @lnmonte
+# Front-end myProfile
+
+Este é um repositório criado para receber os entregáveis do Programa DevStart Paylivre
+## Autores
+
+Criado por Marcelo V. Almeida utilizando como base o 
+modelo fornecido por Luan Monteiro @lnmonte 
+
+- [@marcelovins](https://github.com/marcelovins/beacademy-devstart-gitgithub)
+
+
+## Aprendizados
+
+Criação de landing page em html/css
