@@ -1,4 +1,4 @@
-# Front-end myProfile
+# beacademy-devstart-frontend-myportifolio
 
 Este é um repositório criado para receber os entregáveis do Programa DevStart Paylivre
 ## Autores
