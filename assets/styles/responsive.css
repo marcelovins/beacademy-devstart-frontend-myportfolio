@@ -1,14 +1,37 @@
 @media (max-width: 1200px) {
+  
 }
 
 @media (max-width: 991px) {
+
+  .s-success .container {
+    flex-direction: column;
+    
+  }
+
 }
 
 @media (max-width: 768px) {
+  .s-success .container .cards {
+    flex-direction: column;
+    align-self: start;
+    
+  }
 }
 
 @media (max-width: 600px) {
+  .s-success .container .cards {
+    flex-direction: column;
+    align-self: start;
+  }
 }
 
 @media (max-width: 480px) {
+
+  .s-success .container .cards {
+    flex-direction: column;
+    align-self: start;
+    
+  }
+  
 }
